@@ -1,3 +1,5 @@
+//ЛАБОРАТОРНАЯ №8
+
 //1
 
 pickPropArray=(array,prop)=>{
